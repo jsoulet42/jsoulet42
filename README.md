@@ -1,14 +1,14 @@
 <img src="https://github.com/jsoulet42/jsoulet42/blob/main/image3.webp" alt="Nom de l'image" width="900" height="200">
-<h3 align="center">A passionate developer from france</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsoulet42&label=Profile%20views&color=0e75b6&style=flat" alt="jsoulet42" /> </p>
 
-- 🔭 I’m currently working on
-- [![jsoulet's 42 stats](https://badge42.coday.fr/api/v2/clqik6j1n094501p4pvsi59bn/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
 
-- 🌱 I’m currently learning **c/c++ docker and django**
+[![jsoulet's 42 stats](https://badge42.coday.fr/api/v2/clqik6j1n094501p4pvsi59bn/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
 
-- 📫 How to reach me **jsoulet@student.42perpignan.fr**
+
+
+- **jsoulet@student.42perpignan.fr**
 
 - ⚡ Fun fact **"I am Groot!"**
 
