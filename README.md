@@ -10,7 +10,7 @@
 
 - **jsoulet@student.42perpignan.fr**
 
-- ⚡ Fun fact **"I am Groot!"**
+- **"I am Groot!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
