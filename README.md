@@ -1,4 +1,4 @@
-<img src="https://github.com/jsoulet42/jsoulet42/blob/main/image.webp" alt="Nom de l'image" width="1000" height="300">
+<img src="https://github.com/jsoulet42/jsoulet42/blob/main/image.webp" alt="Nom de l'image" width="900" height="200">
 <h3 align="center">A passionate developer from france</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsoulet42&label=Profile%20views&color=0e75b6&style=flat" alt="jsoulet42" /> </p>
