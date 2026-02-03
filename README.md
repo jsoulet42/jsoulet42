@@ -4,81 +4,98 @@
   <img src="https://komarev.com/ghpvc/?username=jsoulet42&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Compteur de vues" />
 </p>
 
-<h2 align="center">👋 Bonjour, je suis Julien Soulet !</h2>
+<h2 align="center">👋 Julien Soulet</h2>
+
 <p align="center">
-  Actuellement étudiant à l'école 42 de Perpignan et apprenti chez Largo Group, je poursuis une licence en développement web. À 35 ans, je suis passionné par le développement et toujours en quête de nouveaux défis.
+  <b>Développeur Web — ERP / Dolibarr (Full-stack)</b><br/>
+  Aujourd’hui, je développe des <b>modules Dolibarr</b> (ERP/CRM) : du back au front, avec une approche orientée produit, fiabilité et maintenabilité.<br/>
+  À côté, je construis des <b>projets persos</b> (souvent en privé) : SaaS, intégrations, outils et automatisations.
 </p>
 
----
-
-### 🛠️ Langages et Outils :
-
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/julien-soulet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="34" height="34"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Projets Phares :
+## 🎯 Ce que je fais (au quotidien)
 
-- [**MINISHELL**](https://github.com/jsoulet42/MINISHELL)  
-  Un émulateur de shell Unix développé en C, offrant une interface en ligne de commande pour exécuter diverses commandes telles que `cd`, `echo`, `pwd`, `export`, `unset`, et plus encore.* 
+### 🧩 Dolibarr / ERP
+- Développement de modules : pages admin, menus, permissions, UX
+- Hooks / triggers / extrafields, multi-entité
+- SQL/MariaDB : requêtes, perfs, fiabilisation, migrations
+- Workflows métier + génération de documents (PDF), automatisations
 
-- [**Red Tetris**](https://github.com/jsoulet42/RedTetris)  
-  Une application de jeu Tetris multijoueur en temps réel, utilisant React pour l’interface utilisateur, Redux pour la gestion d’état, socket.io pour la communication en temps réel, et Immutable.js pour garantir l’immutabilité des données.
-
-- [**libft**](https://github.com/jsoulet42/libft)  
-  Une bibliothèque personnalisée en C, développée dans le cadre des projets de l'école 42, regroupant des fonctions couramment utilisées pour faciliter le développement en C.
-
-- [**PHILOSOPHERS**](https://github.com/jsoulet42/PHILOSOPHERS)  
-  Une implémentation du problème classique des philosophes mangeurs, explorant les concepts de concurrence et de synchronisation en C.
-- [**ft_transcendence**](https://github.com/jsoulet42/ft_transcendence)  
-  Un projet complet développé à l'école 42, visant à créer une application web en utilisant des technologies modernes.
+### 🧪 Projets persos
+- Dashboards & SaaS (multi-tenant)
+- Intégrations API (Discord, IA, stockage, DB)
+- Expérimentations Next.js / React / TypeScript, Vercel stack
 
 ---
 
-### 📈 Statistiques GitHub :
+## 🧰 Stack & outils
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL/MariaDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dolibarr-ERP%2FCRM-informational" alt="Dolibarr"/>
+  <img src="https://img.shields.io/badge/PHP-Backend-blue" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MariaDB-Database-lightgrey" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/TypeScript-Frontend-blue" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vercel-Deploy-black" alt="Vercel"/>
+</p>
+
+---
+
+## 🚀 Projet perso mis en avant
+
+### 🤖 Event Bot AI — SaaS Dashboard (Discord)
+Plateforme SaaS de gestion d’événements pour Discord, pensée pour le **multi-tenant** et une expérience premium.
+
+**Fonctionnalités clés**
+- **Multi-Server** : connexion de plusieurs serveurs Discord, gestion indépendante
+- **IA premium** : génération d’annonces immersives via **GPT-4o**
+- **Rôles & sécurité** : permissions basées sur les rôles Discord (**Admin vs Viewer**)
+- **Vue “Super Lecture”** : lecture immersive côté membres, sans modification
+- **Médiathèque** : gestion d’assets via **Vercel Blob**
+- **Persistance** : **Vercel Postgres** + **Drizzle ORM**
+
+**Stack**
+- Next.js 15 (App Router), Tailwind CSS, Framer Motion
+- Auth.js (NextAuth) + Discord Provider
+- OpenAI API, Vercel Postgres, Vercel Blob
+
+> Le code est privé, mais je peux partager une démo / des captures ou une version “case study” sur demande.
+
+---
+
+## 🎓 Parcours
+- **42** + **licence dev web** (socle solide : rigueur, système, architecture)
+- Aujourd’hui : **développement ERP / Dolibarr** + projets persos
+
+---
+
+## 📈 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jsoulet42&show_icons=true&locale=fr" alt="Statistiques GitHub" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsoulet42&show_icons=true&locale=fr&layout=compact" alt="Langages les plus utilisés" />
 </p>
 
----
-
-### 🌐 Retrouvez-moi sur :
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/julien-soulet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <!-- Ajoutez d'autres icônes de réseaux sociaux si nécessaire -->
-</p>
-
----
-
-<p align="center">
-  "I am Groot!"
+  <i>Build. Ship. Iterate.</i>
 </p>
