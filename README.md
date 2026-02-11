@@ -7,9 +7,9 @@
 <h2 align="center">👋 Julien Soulet</h2>
 
 <p align="center">
-  <b>Développeur Web — ERP / Dolibarr (Full-stack)</b><br/>
-  Aujourd’hui, je développe des <b>modules Dolibarr</b> (ERP/CRM) : du back au front, avec une approche orientée produit, fiabilité et maintenabilité.<br/>
-  À côté, je construis des <b>projets persos</b> (souvent en privé) : SaaS, intégrations, outils et automatisations.
+  <b>Développeur Web — ERP / SaaS / Orchestration</b><br/>
+  Je conçois des <b>systèmes robustes</b> : modules ERP (Dolibarr), SaaS multi-tenant, workflows métier et moteurs d’exécution.<br/>
+  Approche orientée <b>modélisation, fiabilité et maintenabilité long terme</b>.
 </p>
 
 <p align="center">
@@ -20,18 +20,91 @@
 
 ---
 
-## 🎯 Ce que je fais (au quotidien)
+## 🎯 Ce que je fais
 
-### 🧩 Dolibarr / ERP
-- Développement de modules : pages admin, menus, permissions, UX
-- Hooks / triggers / extrafields, multi-entité
-- SQL/MariaDB : requêtes, perfs, fiabilisation, migrations
-- Workflows métier + génération de documents (PDF), automatisations
+### 🧩 ERP / Dolibarr (Production)
 
-### 🧪 Projets persos
-- Dashboards & SaaS (multi-tenant)
-- Intégrations API (Discord, IA, stockage, DB)
-- Expérimentations Next.js / React / TypeScript, Vercel stack
+Développement de modules ERP/CRM orientés métier :
+
+- Architecture modulaire (admin, menus, permissions)
+- Hooks / triggers / extrafields / multi-entité
+- SQL & MariaDB : requêtes complexes, optimisation, migrations
+- Génération documentaire (PDF), automatisations, workflows métier
+- Respect strict des standards Dolibarr (pas de core hacks)
+
+Objectif :  
+Créer des modules stables, maintenables et intégrables dans des environnements réels.
+
+---
+
+### 🚀 SaaS & projets personnels
+
+Conception d’outils orientés :
+
+- Multi-tenant
+- Orchestration de workflows
+- Intégration d’API (Discord, IA, stockage)
+- Modélisation schéma → instance → exécution
+- Systèmes cumulables dans le temps
+
+Je privilégie :
+
+- La séparation des responsabilités
+- La clarté du modèle mental
+- La fiabilité avant la complexité
+- L’itération produit continue
+
+---
+
+## 🤖 Projet phare — Event Bot AI
+
+### Event Orchestration Engine for Discord
+
+Event Bot AI est un **moteur d’exécution standardisée d’événements Discord**.
+
+Ce n’est pas un simple bot d’annonce.  
+C’est un système SaaS qui structure, orchestre et mémorise le cycle de vie des événements communautaires.
+
+### 🔎 Modèle système
+
+Le produit repose sur cinq concepts :
+
+- **Type** → schéma réutilisable
+- **Variante** → contexte paramétré
+- **Instance** → occurrence datée
+- **Orchestration** → automatisation du cycle
+- **Historique** → mémoire cumulative exploitable
+
+Ce modèle transforme des événements artisanaux en processus reproductibles.
+
+---
+
+### 🧩 Fonctionnement
+
+- Studio de définition des types (sections + champs dynamiques)
+- Génération automatique de formulaires à partir du schéma
+- Création d’événements Discord natifs synchronisés
+- Publication structurée (Embed)
+- Planification & rappels automatisés
+- Création de salons vocaux temporaires
+- Archivage et mémoire des instances passées
+
+Objectif :  
+Standardiser, déléguer, automatiser, capitaliser.
+
+---
+
+### 🧱 Stack technique
+
+- **Next.js 15 (App Router)** — SaaS multi-tenant
+- **TypeScript / React**
+- **Auth.js + Discord OAuth**
+- **Discord API (Scheduled Events, roles, channels)**
+- **Vercel Postgres + Drizzle ORM**
+- **Vercel Blob**
+- **OpenAI API (assistance structurée)**
+
+> Code privé — démo technique disponible sur demande.
 
 ---
 
@@ -58,35 +131,15 @@
 
 ---
 
-## 🚀 Projet perso mis en avant
-
-### 🤖 Event Bot AI — SaaS Dashboard (Discord)
-Plateforme SaaS de gestion d’événements pour Discord, pensée pour le **multi-tenant** et une expérience premium.
-
-**Fonctionnalités clés**
-- **Multi-Server** : connexion de plusieurs serveurs Discord, gestion indépendante
-- **IA premium** : génération d’annonces immersives via **GPT-4o**
-- **Rôles & sécurité** : permissions basées sur les rôles Discord (**Admin vs Viewer**)
-- **Vue “Super Lecture”** : lecture immersive côté membres, sans modification
-- **Médiathèque** : gestion d’assets via **Vercel Blob**
-- **Persistance** : **Vercel Postgres** + **Drizzle ORM**
-
-**Stack**
-- Next.js 15 (App Router), Tailwind CSS, Framer Motion
-- Auth.js (NextAuth) + Discord Provider
-- OpenAI API, Vercel Postgres, Vercel Blob
-
-> Le code est privé, mais je peux partager une démo / des captures ou une version “case study” sur demande.
-
----
-
 ## 🎓 Parcours
-- **42** + **licence dev web** (socle solide : rigueur, système, architecture)
-- Aujourd’hui : **développement ERP / Dolibarr** + projets persos
+
+- École 42 + Licence Développement Web  
+- Approche rigoureuse : architecture, système, logique produit
+- Expérience production ERP (Dolibarr) + SaaS
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jsoulet42&show_icons=true&locale=fr" alt="Statistiques GitHub" />
@@ -97,5 +150,5 @@ Plateforme SaaS de gestion d’événements pour Discord, pensée pour le **mult
 </p>
 
 <p align="center">
-  <i>Build. Ship. Iterate.</i>
+  <i>Design systems. Build engines. Ship durable software.</i>
 </p>
